@@ -1,5 +1,8 @@
 Lauren's test first day of class. 
 Lauren-is-the-best
 manicas-edit
+<<<<<<< HEAD
+=======
 New change 
+>>>>>>> f1e66da04ab48ac01e81a6681f1a860c844344c2
 
